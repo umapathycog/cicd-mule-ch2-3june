@@ -135,5 +135,5 @@ jobs:
       env:
         AUTHOR: "Mr Bean"
       run: |
-        mvn clean deploy --file pom.xml -DmuleDeploy -Denvironment="dev" -DapplicationName="cicd-umapathy" -Dmessage="mule and cloudhub 2.0 rocks!" 
+        mvn clean deploy --file pom.xml -DmuleDeploy -Denvironment="dev" -DapplicationName="cicd-umapathy" -Dmessage="Summer is comming up soon !" 
 
