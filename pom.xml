@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<!-- groupID must be the business group ID or ORGID -->
-	<groupId>051232c8-4905-4286-85d5-339a34307330</groupId>
+	<groupId>8ec1fe1e-6fe7-4e85-a527-a45a95db8a49</groupId>
 	<artifactId>cicd-cloudhub2-java17</artifactId>
 	<!-- This version is immutable, need to bump for every deployment-->
 	<version>1.0.0</version>
